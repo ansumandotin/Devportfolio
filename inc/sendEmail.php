@@ -1,7 +1,7 @@
 <?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'hello@ansuman.in';
+$siteOwnersEmail = 'PlaceYourEmailAddress';
 
 
 if($_POST) {
